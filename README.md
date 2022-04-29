@@ -1,10 +1,12 @@
 # sound-of-laughter
 L’éclat du rire (The Sound of Laughter) - AI techniques for detecting and generating laughter
 
+Inspired by [MSGGAN](https://github.com/akanimax/msg-gan-v1).
+
 This repository contains:
-- A MSGGAN designed to work on mel spectrograms
+- A MSGGAN designed to work on mel spectrograms.
 - A simple dataloader designed to load data from a folder of `.wav` files.
-- A training script for the MSGGAN
+- A training script for the MSGGAN.
 
 ## Training MSGGAN
 
